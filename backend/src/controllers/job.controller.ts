@@ -224,7 +224,7 @@ export const getNearbyServiceProviders = async (
           { latitude: latitude, longitude: longitude },
           { latitude: provider.latitude, longitude: provider.longitude }
         );
-        return distance <= 500;
+        return distance <= 50;
       }
     );
 

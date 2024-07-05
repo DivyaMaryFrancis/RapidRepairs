@@ -104,7 +104,7 @@ const FAQ = () => {
                       data-bs-target='#faq-content-4'
                     >
                       <i className='bi bi-question-circle question-icon'></i>
-                      How do I provide feedback or lodge a complaint?
+                      How do I provide feedback ?
                     </button>
                   </h3>
                   <div
@@ -114,9 +114,7 @@ const FAQ = () => {
                   >
                     <div className='accordion-body'>
                       <i className='bi bi-question-circle question-icon'></i>
-                      Providing feedback or lodging a complaint on our website
-                      is easy. We usually have a dedicated section where users
-                      can share their thoughts, suggestions, or concerns.
+                      To provide feedback, you can use the "Leave Feedback" section in the email you receive after the job is completed.
                     </div>
                   </div>
                 </div>
